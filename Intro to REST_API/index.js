@@ -31,6 +31,7 @@ app.post("/api/users", (req, res) => {
   return res.json({ status: Pending });
 });
 
+
 app.patch("/api/users/:id", (req, res) => {
   //TODO: Edit the user with id
   return res.json({ status: Pending });
