@@ -1,4 +1,4 @@
-"# Learn-nodejs"
+# 🚀 **Learn Node.js**
 
 This repository is a personal collection of small projects, code snippets, and practice exercises built while learning **Node.js** and **Express.js**.
 
